@@ -14,7 +14,7 @@ public class OrderServiceMain {
         final Address address = new Address("DJ", "Craiova", "Nicolae Titulescu");
         final Seller seller = new Seller("Evomag", address);
 
-        final Address cosminAddress = new Address("DJ", "Craiova", "Ileana Cosanzeana")
+        final Address cosminAddress = new Address("DJ", "Craiova", "Ileana Cosanzeana");
         final Buyer buyer = new Buyer("Cosmin", address);
 
         final Address courierAddress = new Address("OT", "Slatina", "Cantemir");
